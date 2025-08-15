@@ -1,0 +1,24 @@
+{
+  "name": "chat-p2p-signaling-server",
+  "version": "1.0.0",
+  "description": "Servidor de sinalização minimalista para chat P2P",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.8.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "keywords": [
+    "webrtc",
+    "p2p",
+    "chat",
+    "signaling"
+  ],
+  "author": "",
+  "license": "MIT"
+}
