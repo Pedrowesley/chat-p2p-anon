@@ -2,6 +2,20 @@
 
 Um sistema de chat peer-to-peer seguro e anônimo com criptografia end-to-end, construído com React, TypeScript e WebRTC.
 
+## 📸 Screenshots
+
+### Desktop - Criação da Sala
+
+<img width="800" alt="Tela de criação de sala" src="https://github.com/user-attachments/assets/0926b6ac-8fc8-4bba-9f18-112a5188f47e" />
+
+### Desktop - Chat em Funcionamento
+
+<img width="800" alt="Chat funcionando entre duas pessoas" src="https://github.com/user-attachments/assets/41d45944-a9f5-4ec3-9956-270148aba515" />
+
+### Mobile - Interface Responsiva
+
+<img width="300" alt="Interface mobile responsiva" src="https://github.com/user-attachments/assets/820b1ae0-8308-44fb-81d2-e52b6798b10f" />
+
 ## ✨ Características
 
 - 🌐 **Comunicação P2P direta** via WebRTC
